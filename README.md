@@ -1,6 +1,6 @@
 # DecodeLabs Project 2: Iris Flower Classification Using KNN
 
-![Iris Flower Classification Using KNN](images/iris-knn-cover.png)
+![Iris Flower Classification Using KNN](images/iris-knn-cover.jpeg)
 
 This project implements a K Nearest Neighbors (KNN) classification model to classify Iris flowers into three species: Setosa, Versicolor, and Virginica.
 
@@ -22,7 +22,7 @@ The project follows a complete basic machine learning workflow, starting from da
 
 ## Machine Learning Workflow
 
-![Machine Learning Workflow](images/iris-knn-workflow.png)
+![Machine Learning Workflow](images/iris-knn-workflow.jpeg)
 
 Iris Dataset  
 → Data Exploration  
