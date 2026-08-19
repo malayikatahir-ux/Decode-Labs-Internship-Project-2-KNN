@@ -52,6 +52,4 @@ Jupyter Notebook
 
 **Dataset:** Iris Dataset
 
-## Project Notebook
-
-[View the Complete Jupyter Notebook](YOUR_NOTEBOOK_LINK)
+ 
